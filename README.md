@@ -6,7 +6,7 @@ Ein plattformübergreifendes System-Monitoring-Tool entwickelt mit modernem C++ 
 
 
 
-!\[SystemMonitor Screenshot](screenshots/main.png)
+!\[SystemMonitor Screenshot](Screenshots/main.png)
 
 
 
