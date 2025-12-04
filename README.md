@@ -11,7 +11,7 @@ Ein plattformübergreifendes System-Monitoring-Tool entwickelt mit modernem C++ 
 
 
 
-!\[SystemMonitor Screenshot](Screenshots/main.png)
+![SystemMonitor Screenshot](Screenshots/main.png)
 
 
 
@@ -147,11 +147,11 @@ make -j4
 
 
 
-!\[Hauptfenster](screenshots/main.png)
+![Hauptfenster](screenshots/main.png)
 
-!\[CPU Graph](screenshots/cpu.png)
+![CPU Graph](screenshots/cpu.png)
 
-!\[Prozessliste](screenshots/processes.png)
+![Prozessliste](screenshots/processes.png)
 
 
 
