@@ -1,3 +1,8 @@
+![C++](https://img.shields.io/badge/C++-17%2F20-blue)
+![Qt](https://img.shields.io/badge/Qt-6-green)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 \# SystemMonitor
 
 
