@@ -11,7 +11,7 @@ Ein plattformübergreifendes System-Monitoring-Tool entwickelt mit modernem C++ 
 
 
 
-![SystemMonitor Screenshot](Screenshots/main.png)
+![SystemMonitor Screenshot](Screenshots/main.png?raw=true)
 
 
 
